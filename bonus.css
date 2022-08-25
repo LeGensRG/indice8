@@ -1,0 +1,14 @@
+header{
+	text-align: center;
+	font-size: 30px;
+	height: 20%;
+}
+#text{
+	text-align: center;
+	height: 80%; 
+	font-size: 120%;
+}
+#div1{
+	margin-top: 20%;
+	text-align: center;
+}
